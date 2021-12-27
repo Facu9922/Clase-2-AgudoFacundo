@@ -1,0 +1,5 @@
+let hambre = prompt ("¿Tenes hambre?")
+if (hambre == "si")
+alert("Te ganaste un Big Mac")
+else if (hambre =="no")
+alert("Acabas de perder la mejor hamburges de tu vida")
